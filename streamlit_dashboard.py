@@ -93,6 +93,7 @@ with col2:
         xaxis_title="Amount executed",
         yaxis_title="Number of crimes",
     )
+    st.plotly_chart(fig, use_container_width=True)
 
     # -----------------------------------------------------------------------------------------------
 
