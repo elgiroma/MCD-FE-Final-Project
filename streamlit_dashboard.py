@@ -12,7 +12,7 @@ st.set_page_config(
 
 st.title("MCD. Feature Engineering. Final Project.")
 st.subheader(
-    "Relación del número de crimenes en las ciudades del estado de Sonora con el presupuesto dado a la educación pública de Sonora."
+    "Relación del número de crimenes en los municipios del estado de Sonora con el presupuesto dado a la educación pública de Sonora."
 )
 col1, col2 = st.columns(2)
 
